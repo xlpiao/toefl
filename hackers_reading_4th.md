@@ -60,6 +60,8 @@
 | 48 | agility | TBD |
 | 49 | stalk | TBD |
 #### Paragraph #4
+| # | Word | Description |
+| :--- | :--- | :--- |
 | 50 | dash | TBD |
 | 51 | halt | TBD |
 | 52 | likelihood | TBD |
