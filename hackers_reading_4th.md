@@ -59,6 +59,18 @@
 | 47 | utmost | TBD |
 | 48 | agility | TBD |
 | 49 | stalk | TBD |
+#### Paragraph #4
+| 50 | dash | TBD |
+| 51 | halt | TBD |
+| 52 | likelihood | TBD |
+| 53 | mimicry | TBD |
+| 54 | beefy | TBD |
+| 55 | disguise | TBD |
+| 56 | slip into | TBD |
+| 57 | spurt | TBD |
+| 58 | swoop | TBD |
+| 59 | maneuver | TBD |
+| 60 | eject | TBD |
 
 ### Page #26: The Mediums of Egyptian Art
 
