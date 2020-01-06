@@ -31,6 +31,6 @@
 - `26` hatch
 #### Pragraph #3
 
-### Page #26 The Mediums of Egyptian Art
+### Page #26: The Mediums of Egyptian Art
 
-### Page #40 Incan and Mayan Civilizations
+### Page #40: Incan and Mayan Civilizations
