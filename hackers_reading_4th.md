@@ -36,6 +36,29 @@
 #### Pragraph #3
 | # | Word | Description |
 | :--- | :--- | :--- |
+| 27 | territory | TBD |
+| 28 | reproductive | TBD |
+| 29 | cuckold | TBD |
+| 30 | sneaker | TBD |
+| 31 | divert | TBD |
+| 32 | gonad | TBD |
+| 33 | milt | TBD |
+| 34 | secretion | TBD |
+| 35 | spermatozoa | TBD |
+| 36 | procreative | TBD |
+| 37 | meek | TBD |
+| 38 | weed | TBD |
+| 39 | breed | TBD |
+| 40 | tilt | TBD |
+| 41 | dip | TBD |
+| 42 | diminutive | TBD |
+| 43 | dart into | TBD |
+| 44 | squirt | TBD |
+| 45 | tactic | TBD |
+| 46 | undersize | TBD |
+| 47 | utmost | TBD |
+| 48 | agility | TBD |
+| 49 | stalk | TBD |
 
 ### Page #26: The Mediums of Egyptian Art
 
