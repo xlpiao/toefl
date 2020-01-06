@@ -1,7 +1,7 @@
 ## Diagnostic Test
 
-### Page.32 Bluegills
-#### Pragraph.1
+### Page #32: Bluegills
+#### Pragraph #1
 - `01` angler
 - `02` pond
 - `03` offspring
@@ -10,7 +10,7 @@
 - `06` ritual
 - `07` fertilize
 - `08` deception
-#### Pragraph.2
+#### Pragraph #2
 - `09` comprise
 - `10` roughly
 - `11` breeding
@@ -29,8 +29,8 @@
 - `24` depression
 - `25` grunt
 - `26` hatch
-#### Pragraph.3
+#### Pragraph #3
 
-### Page.26 The Mediums of Egyptian Art
+### Page #26 The Mediums of Egyptian Art
 
-### Page.40 Incan and Mayan Civilizations
+### Page #40 Incan and Mayan Civilizations
