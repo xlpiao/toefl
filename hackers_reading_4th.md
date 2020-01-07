@@ -7,7 +7,7 @@
 |01|angler|angler|
 |02|pond|TBD|
 |03|offspring|TBD|
-|04|fry|https://www.merriam-webster.com/dictionary/fry|
+|04|fry|https://www.collinsdictionary.com/dictionary/english/fry|
 |05|circumvent|TBD|
 |06|ritual|TBD|
 |07|fertilize|TBD|
