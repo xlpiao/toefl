@@ -4,7 +4,7 @@
 #### Pragraph #1
 |#|Word|Description|
 |:---|:---|:---|
-|01|angler|angler|
+|01|angler|https://www.wordreference.com/definition/angler|
 |02|pond|TBD|
 |03|offspring|TBD|
 |04|fry|https://www.collinsdictionary.com/dictionary/english/fry|
