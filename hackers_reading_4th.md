@@ -7,7 +7,7 @@
 |01|angler|https://www.collinsdictionary.com/dictionary/english/angler|
 |02|pond|https://www.collinsdictionary.com/dictionary/english/pond|
 |03|offspring|https://www.collinsdictionary.com/dictionary/english/offspring|
-|04|fry|https://www.collinsdictionary.com/dictionary/english/04|fry|
+|04|fry|https://www.collinsdictionary.com/dictionary/english/fry|
 |05|circumvent|https://www.collinsdictionary.com/dictionary/english/circumvent|
 |06|ritual|https://www.collinsdictionary.com/dictionary/english/ritual|
 |07|fertilize|https://www.collinsdictionary.com/dictionary/english/fertilize|
@@ -29,7 +29,7 @@
 |20|nest|https://www.collinsdictionary.com/dictionary/english/nest|
 |21|sweep|https://www.collinsdictionary.com/dictionary/english/sweep|
 |22|fin|https://www.collinsdictionary.com/dictionary/english/fin|
-|23|sandy floor|https://www.collinsdictionary.com/dictionary/english/|depression|https://www.collinsdictionary.com/dictionary/english/depression|
+|23|sandy|https://www.collinsdictionary.com/dictionary/english/sandy|
 |25|grunt|https://www.collinsdictionary.com/dictionary/english/grunt|
 |26|hatch|https://www.collinsdictionary.com/dictionary/english/hatch|
 #### Pragraph #3
