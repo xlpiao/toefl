@@ -108,3 +108,35 @@
 |40|aura|https://www.collinsdictionary.com/dictionary/english/aura|
 
 ## Page #40: Incan and Mayan Civilizations
+|01|conquistador|https://www.collinsdictionary.com/dictionary/english/conquistador|
+|02|indigenous|https://www.collinsdictionary.com/dictionary/english/indigenous|
+|03|withstand|https://www.collinsdictionary.com/dictionary/english/withstand|
+|04|seamlessly|https://www.collinsdictionary.com/dictionary/english/seamlessly|
+|05|terrace|https://www.collinsdictionary.com/dictionary/english/terrace|
+|06|haphazard|https://www.collinsdictionary.com/dictionary/english/haphazard|
+|07|ballcourt|https://www.collinsdictionary.com/dictionary/english/ballcourt|
+|08|mortar|https://www.collinsdictionary.com/dictionary/english/mortar|
+|09|hew|https://www.collinsdictionary.com/dictionary/english/hew|
+|10|confederation|https://www.collinsdictionary.com/dictionary/english/confederation|
+|11|supreme|https://www.collinsdictionary.com/dictionary/english/supreme|
+|12|hereditary|https://www.collinsdictionary.com/dictionary/english/hereditary|
+|13|focal|https://www.collinsdictionary.com/dictionary/english/focal|
+|14|disparate|https://www.collinsdictionary.com/dictionary/english/disparate|
+|15|tribe|https://www.collinsdictionary.com/dictionary/english/tribe|
+|16|exert|https://www.collinsdictionary.com/dictionary/english/exert|
+|17|swift|https://www.collinsdictionary.com/dictionary/english/swift|
+|18|far-flung|https://www.collinsdictionary.com/dictionary/english/far-flung|
+|19|phonetically|https://www.collinsdictionary.com/dictionary/english/phonetically|
+|20|inscribe|https://www.collinsdictionary.com/dictionary/english/inscribe|
+|21|pottery|https://www.collinsdictionary.com/dictionary/english/pottery|
+|22|bark|https://www.collinsdictionary.com/dictionary/english/bark|
+|23|codices|https://www.collinsdictionary.com/dictionary/english/codices|
+|25|priest|https://www.collinsdictionary.com/dictionary/english/priest|
+|26|knott|https://www.collinsdictionary.com/dictionary/english/knott|
+|27|cord|https://www.collinsdictionary.com/dictionary/english/cord|
+|28|proponent|https://www.collinsdictionary.com/dictionary/english/proponent|
+|29|overlap|https://www.collinsdictionary.com/dictionary/english/overlap|
+|30|spectacular|https://www.collinsdictionary.com/dictionary/english/spectacular|
+|31|relics|https://www.collinsdictionary.com/dictionary/english/relics|
+|32|forge|https://www.collinsdictionary.com/dictionary/english/forge|
+|33|appraise|https://www.collinsdictionary.com/dictionary/english/appraise|
