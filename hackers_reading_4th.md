@@ -1,7 +1,8 @@
-## Diagnostic Test
+# Diagnostic Test
 
-### Page #32: Bluegills
-#### Pragraph #1
+## Page #32: Bluegills
+
+### Paragraph #1
 |#|Word|Description|
 |:---|:---|:---|
 |01|angler|https://www.collinsdictionary.com/dictionary/english/angler|
@@ -12,7 +13,8 @@
 |06|ritual|https://www.collinsdictionary.com/dictionary/english/ritual|
 |07|fertilize|https://www.collinsdictionary.com/dictionary/english/fertilize|
 |08|deception|https://www.collinsdictionary.com/dictionary/english/deception|
-#### Pragraph #2
+
+### Paragraph #2
 |#|Word|Description|
 |:---|:---|:---|
 |09|comprise|https://www.collinsdictionary.com/dictionary/english/comprise|
@@ -32,7 +34,8 @@
 |23|sandy|https://www.collinsdictionary.com/dictionary/english/sandy|
 |25|grunt|https://www.collinsdictionary.com/dictionary/english/grunt|
 |26|hatch|https://www.collinsdictionary.com/dictionary/english/hatch|
-#### Pragraph #3
+
+### Paragraph #3
 |#|Word|Description|
 |:---|:---|:---|
 |27|territory|https://www.collinsdictionary.com/dictionary/english/territory|
@@ -58,7 +61,8 @@
 |47|utmost|https://www.collinsdictionary.com/dictionary/english/utmost|
 |48|agility|https://www.collinsdictionary.com/dictionary/english/agility|
 |49|stalk|https://www.collinsdictionary.com/dictionary/english/stalk|
-#### Paragraph #4
+
+### Paragraph #4
 |#|Word|Description|
 |:---|:---|:---|
 |50|dash|https://www.collinsdictionary.com/dictionary/english/dash|
@@ -73,6 +77,6 @@
 |59|maneuver|https://www.collinsdictionary.com/dictionary/english/maneuver|
 |60|eject|https://www.collinsdictionary.com/dictionary/english/eject|
 
-### Page #26: The Mediums of Egyptian Art
+## Page #26: The Mediums of Egyptian Art
 
-### Page #40: Incan and Mayan Civilizations
+## Page #40: Incan and Mayan Civilizations
