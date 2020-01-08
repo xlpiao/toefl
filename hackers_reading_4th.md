@@ -104,7 +104,7 @@
 |36|sensible|https://www.collinsdictionary.com/dictionary/english/sensible|
 |37|somber|https://www.collinsdictionary.com/dictionary/english/somber|
 |38|perceptive|https://www.collinsdictionary.com/dictionary/english/perceptive|
-|39|resilent|https://www.collinsdictionary.com/dictionary/english/resilent|
+|39|resilient|https://www.collinsdictionary.com/dictionary/english/resilient|
 |40|aura|https://www.collinsdictionary.com/dictionary/english/aura|
 
 ## Page #40: Incan and Mayan Civilizations
