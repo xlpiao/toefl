@@ -108,6 +108,8 @@
 |40|aura|https://www.collinsdictionary.com/dictionary/english/aura|
 
 ## Page #40: Incan and Mayan Civilizations
+|#|Word|Description|
+|:---|:---|:---|
 |01|conquistador|https://www.collinsdictionary.com/dictionary/english/conquistador|
 |02|indigenous|https://www.collinsdictionary.com/dictionary/english/indigenous|
 |03|withstand|https://www.collinsdictionary.com/dictionary/english/withstand|
