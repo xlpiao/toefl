@@ -77,7 +77,7 @@
 |09|endure|https://www.collinsdictionary.com/dictionary/english/endure|
 |10|decease|https://www.collinsdictionary.com/dictionary/english/decease|
 |11|shrine|https://www.collinsdictionary.com/dictionary/english/shrine|
-|12|niches|https://www.collinsdictionary.com/dictionary/english/niches|
+|12|niche|https://www.collinsdictionary.com/dictionary/english/niche|
 |13|pragmatic|https://www.collinsdictionary.com/dictionary/english/pragmatic|
 |14|scarce|https://www.collinsdictionary.com/dictionary/english/scarce|
 |15|adept|https://www.collinsdictionary.com/dictionary/english/adept|
