@@ -78,5 +78,72 @@
 |60|eject|https://www.collinsdictionary.com/dictionary/english/eject|
 
 ## Page #26: The Mediums of Egyptian Art
+### Paragraph #1
+|#|Word|Description|
+|:---|:---|:---|
+|01|limestone|https://www.collinsdictionary.com/dictionary/english/limestone|
+|02|ample|https://www.collinsdictionary.com/dictionary/english/ample|
+|03|cliff|https://www.collinsdictionary.com/dictionary/english/cliff|
+|04|silt|https://www.collinsdictionary.com/dictionary/english/silt|
+|05|resurrection|https://www.collinsdictionary.com/dictionary/english/resurrection|
+|06|indicative|https://www.collinsdictionary.com/dictionary/english/indicative|
+
+### Paragraph #2
+|#|Word|Description|
+|:---|:---|:---|
+|07|pillar|https://www.collinsdictionary.com/dictionary/english/pillar|
+|08|column|https://www.collinsdictionary.com/dictionary/english/column|
+|09|endure|https://www.collinsdictionary.com/dictionary/english/endure|
+|10|decease|https://www.collinsdictionary.com/dictionary/english/decease|
+|11|shrine|https://www.collinsdictionary.com/dictionary/english/shrine|
+|12|niches|https://www.collinsdictionary.com/dictionary/english/niches|
+|13|pragmatic|https://www.collinsdictionary.com/dictionary/english/pragmatic|
+
+### Paragraph #3
+|#|Word|Description|
+|:---|:---|:---|
+|14|scarce|https://www.collinsdictionary.com/dictionary/english/scarce|
+|15|adept|https://www.collinsdictionary.com/dictionary/english/adept|
+|16|gnarld|https://www.collinsdictionary.com/dictionary/english/gnarld|
+|17|chisel|https://www.collinsdictionary.com/dictionary/english/chisel|
+|18|rub|https://www.collinsdictionary.com/dictionary/english/rub|
+|19|plaster|https://www.collinsdictionary.com/dictionary/english/plaster|
+|20|chest|https://www.collinsdictionary.com/dictionary/english/chest|
+|21|coffin|https://www.collinsdictionary.com/dictionary/english/coffin|
+
+### Paragraph #4
+|#|Word|Description|
+|:---|:---|:---|
+|22|mold|https://www.collinsdictionary.com/dictionary/english/mold|
+|23|ceramic|https://www.collinsdictionary.com/dictionary/english/ceramic|
+
+### Paragraph #5
+|#|Word|Description|
+|:---|:---|:---|
+|24|cult|https://www.collinsdictionary.com/dictionary/english/cult|
+|25|flesh|https://www.collinsdictionary.com/dictionary/english/flesh|
+|26|disk|https://www.collinsdictionary.com/dictionary/english/disk|
+
+### Paragraph #6
+|#|Word|Description|
+|:---|:---|:---|
+|27|faience|https://www.collinsdictionary.com/dictionary/english/faience|
+|28|glazed|https://www.collinsdictionary.com/dictionary/english/glazed|
+|29|bracelet|https://www.collinsdictionary.com/dictionary/english/bracelet|
+|30|stud|https://www.collinsdictionary.com/dictionary/english/stud|
+|31|turquoise|https://www.collinsdictionary.com/dictionary/english/turquoise|
+
+### Others
+|#|Word|Description|
+|:---|:---|:---|
+|32|ornamentation|https://www.collinsdictionary.com/dictionary/english/ornamentation|
+|33|sporadically|https://www.collinsdictionary.com/dictionary/english/sporadically|
+|34|revitalization|https://www.collinsdictionary.com/dictionary/english/revitalization|
+|35|resurrect|https://www.collinsdictionary.com/dictionary/english/resurrect|
+|36|sensible|https://www.collinsdictionary.com/dictionary/english/sensible|
+|37|somber|https://www.collinsdictionary.com/dictionary/english/somber|
+|38|perceptive|https://www.collinsdictionary.com/dictionary/english/perceptive|
+|39|resilent|https://www.collinsdictionary.com/dictionary/english/resilent|
+|40|aura|https://www.collinsdictionary.com/dictionary/english/aura|
 
 ## Page #40: Incan and Mayan Civilizations
