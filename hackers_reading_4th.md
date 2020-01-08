@@ -1,8 +1,6 @@
 # Diagnostic Test
 
 ## Page #32: Bluegills
-
-### Paragraph #1
 |#|Word|Description|
 |:---|:---|:---|
 |01|angler|https://www.collinsdictionary.com/dictionary/english/angler|
@@ -13,10 +11,6 @@
 |06|ritual|https://www.collinsdictionary.com/dictionary/english/ritual|
 |07|fertilize|https://www.collinsdictionary.com/dictionary/english/fertilize|
 |08|deception|https://www.collinsdictionary.com/dictionary/english/deception|
-
-### Paragraph #2
-|#|Word|Description|
-|:---|:---|:---|
 |09|comprise|https://www.collinsdictionary.com/dictionary/english/comprise|
 |10|roughly|https://www.collinsdictionary.com/dictionary/english/roughly|
 |11|breeding|https://www.collinsdictionary.com/dictionary/english/breeding|
@@ -34,10 +28,6 @@
 |23|sandy|https://www.collinsdictionary.com/dictionary/english/sandy|
 |25|grunt|https://www.collinsdictionary.com/dictionary/english/grunt|
 |26|hatch|https://www.collinsdictionary.com/dictionary/english/hatch|
-
-### Paragraph #3
-|#|Word|Description|
-|:---|:---|:---|
 |27|territory|https://www.collinsdictionary.com/dictionary/english/territory|
 |28|reproductive|https://www.collinsdictionary.com/dictionary/english/reproductive|
 |29|cuckold|https://www.collinsdictionary.com/dictionary/english/cuckold|
@@ -61,10 +51,6 @@
 |47|utmost|https://www.collinsdictionary.com/dictionary/english/utmost|
 |48|agility|https://www.collinsdictionary.com/dictionary/english/agility|
 |49|stalk|https://www.collinsdictionary.com/dictionary/english/stalk|
-
-### Paragraph #4
-|#|Word|Description|
-|:---|:---|:---|
 |50|dash|https://www.collinsdictionary.com/dictionary/english/dash|
 |51|halt|https://www.collinsdictionary.com/dictionary/english/halt|
 |52|likelihood|https://www.collinsdictionary.com/dictionary/english/likelihood|
@@ -78,7 +64,6 @@
 |60|eject|https://www.collinsdictionary.com/dictionary/english/eject|
 
 ## Page #26: The Mediums of Egyptian Art
-### Paragraph #1
 |#|Word|Description|
 |:---|:---|:---|
 |01|limestone|https://www.collinsdictionary.com/dictionary/english/limestone|
@@ -87,10 +72,6 @@
 |04|silt|https://www.collinsdictionary.com/dictionary/english/silt|
 |05|resurrection|https://www.collinsdictionary.com/dictionary/english/resurrection|
 |06|indicative|https://www.collinsdictionary.com/dictionary/english/indicative|
-
-### Paragraph #2
-|#|Word|Description|
-|:---|:---|:---|
 |07|pillar|https://www.collinsdictionary.com/dictionary/english/pillar|
 |08|column|https://www.collinsdictionary.com/dictionary/english/column|
 |09|endure|https://www.collinsdictionary.com/dictionary/english/endure|
@@ -98,10 +79,6 @@
 |11|shrine|https://www.collinsdictionary.com/dictionary/english/shrine|
 |12|niches|https://www.collinsdictionary.com/dictionary/english/niches|
 |13|pragmatic|https://www.collinsdictionary.com/dictionary/english/pragmatic|
-
-### Paragraph #3
-|#|Word|Description|
-|:---|:---|:---|
 |14|scarce|https://www.collinsdictionary.com/dictionary/english/scarce|
 |15|adept|https://www.collinsdictionary.com/dictionary/english/adept|
 |16|gnarld|https://www.collinsdictionary.com/dictionary/english/gnarld|
@@ -110,32 +87,16 @@
 |19|plaster|https://www.collinsdictionary.com/dictionary/english/plaster|
 |20|chest|https://www.collinsdictionary.com/dictionary/english/chest|
 |21|coffin|https://www.collinsdictionary.com/dictionary/english/coffin|
-
-### Paragraph #4
-|#|Word|Description|
-|:---|:---|:---|
 |22|mold|https://www.collinsdictionary.com/dictionary/english/mold|
 |23|ceramic|https://www.collinsdictionary.com/dictionary/english/ceramic|
-
-### Paragraph #5
-|#|Word|Description|
-|:---|:---|:---|
 |24|cult|https://www.collinsdictionary.com/dictionary/english/cult|
 |25|flesh|https://www.collinsdictionary.com/dictionary/english/flesh|
 |26|disk|https://www.collinsdictionary.com/dictionary/english/disk|
-
-### Paragraph #6
-|#|Word|Description|
-|:---|:---|:---|
 |27|faience|https://www.collinsdictionary.com/dictionary/english/faience|
 |28|glazed|https://www.collinsdictionary.com/dictionary/english/glazed|
 |29|bracelet|https://www.collinsdictionary.com/dictionary/english/bracelet|
 |30|stud|https://www.collinsdictionary.com/dictionary/english/stud|
 |31|turquoise|https://www.collinsdictionary.com/dictionary/english/turquoise|
-
-### Others
-|#|Word|Description|
-|:---|:---|:---|
 |32|ornamentation|https://www.collinsdictionary.com/dictionary/english/ornamentation|
 |33|sporadically|https://www.collinsdictionary.com/dictionary/english/sporadically|
 |34|revitalization|https://www.collinsdictionary.com/dictionary/english/revitalization|
