@@ -81,7 +81,7 @@
 |13|pragmatic|https://www.collinsdictionary.com/dictionary/english/pragmatic|
 |14|scarce|https://www.collinsdictionary.com/dictionary/english/scarce|
 |15|adept|https://www.collinsdictionary.com/dictionary/english/adept|
-|16|gnarld|https://www.collinsdictionary.com/dictionary/english/gnarld|
+|16|gnarled|https://www.collinsdictionary.com/dictionary/english/gnarled|
 |17|chisel|https://www.collinsdictionary.com/dictionary/english/chisel|
 |18|rub|https://www.collinsdictionary.com/dictionary/english/rub|
 |19|plaster|https://www.collinsdictionary.com/dictionary/english/plaster|
