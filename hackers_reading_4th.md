@@ -142,3 +142,8 @@
 |31|relics|https://www.collinsdictionary.com/dictionary/english/relics|
 |32|forge|https://www.collinsdictionary.com/dictionary/english/forge|
 |33|appraise|https://www.collinsdictionary.com/dictionary/english/appraise|
+|34|forge|https://www.collinsdictionary.com/dictionary/english/forge|
+|35|resist|https://www.collinsdictionary.com/dictionary/english/resist|
+|36|appraise|https://www.collinsdictionary.com/dictionary/english/appraise|
+|37|pathetic|https://www.collinsdictionary.com/dictionary/english/pathetic|
+|38|timid|https://www.collinsdictionary.com/dictionary/english/timid|
