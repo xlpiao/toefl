@@ -148,5 +148,5 @@
 |37|pathetic|https://www.collinsdictionary.com/dictionary/english/pathetic|
 |38|timid|https://www.collinsdictionary.com/dictionary/english/timid|
 |39|succession|https://www.collinsdictionary.com/dictionary/english/succession|
-|40|aurocratic|https://www.collinsdictionary.com/dictionary/english/autocratic|
+|40|autocratic|https://www.collinsdictionary.com/dictionary/english/autocratic|
 |41|monarch|https://www.collinsdictionary.com/dictionary/english/monarch|
